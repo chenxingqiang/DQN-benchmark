@@ -1,4 +1,4 @@
-# [PYTORCH] Deep Q-learning Pytorch Realize
+# [PYTORCH] Deep Q-learning Pytorch with flappy bird
 
 ## Introduction
 
@@ -7,7 +7,6 @@ Here is my python source code for training an agent to play flappy bird. It coul
   <img src="show/flappybird.gif" width=600><br/>
   <i>demo</i>
 </p>
-
 ## How to use my code
 
 With my code, you can:
@@ -47,3 +46,11 @@ You could find duel-stream at **demo/img_net--->DuelDQN**
 * **cv2**
 * **pytorch-1.0** 
 * **numpy**
+
+## Reference
+- [DQN2013](https://arxiv.org/pdf/1312.5602.pdf)
+- [DQN2015](https://www.nature.com/articles/nature14236.pdf)
+- [Double DQN](https://arxiv.org/pdf/1509.06461v3.pdf)
+- [Duel DQN](https://arxiv.org/pdf/1511.06581.pdf)
+
+
