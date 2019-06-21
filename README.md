@@ -18,6 +18,11 @@ With my code, you can:
 
 You could find DDQN model at **model/DDQN**  
 You could find DQN  model at **model/DQN**
+
+
+## NetWork
+You could find onestream at **demo/img_net--->DQN**  
+You could find duel-stream at **demo/img_net--->DuelDQN**  
  
 ## Requirements
 
