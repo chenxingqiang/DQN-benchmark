@@ -16,7 +16,7 @@ With my code, you can:
 
 ## Trained models
 
-You could find DDQN model at **model/DDQN**
+You could find DDQN model at **model/DDQN**  
 You could find DQN  model at **model/DQN**
  
 ## Requirements
