@@ -16,12 +16,13 @@ With my code, you can:
 
 ## Trained models
 
-You could find my trained model at **trained_models/flappy_bird**
+You could find DDQN model at **model/DDQN**
+You could find DQN  model at **model/DQN**
  
 ## Requirements
 
 * **python 3.6**
 * **pygame**
 * **cv2**
-* **pytorch** 
+* **pytorch-1.0** 
 * **numpy**
