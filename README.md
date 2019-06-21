@@ -6,7 +6,8 @@ Here is my python source code for training an agent to play flappy bird. It coul
 <p align="center">
   <img src="show/flappybird.gif" width=600><br/>
   <i>demo</i>
-</p>
+</p>  
+
 ## How to use my code
 
 With my code, you can:
