@@ -34,11 +34,11 @@ You could find duel-stream at **demo/img_net--->DuelDQN**
 ## Result
  Methods | Game | Mean score(second)
 :--:|:--:|:--:
- DFN(ours+Border)   | R101_v1c | *train_aug* 
- DFN(ours)          | R101_v1c | *train_aug* 
- DFN(ours+SBD)      | R101_v1c | *train_aug* 
- deeperlab(ours+SBD)| R101_v1c | *train_aug* 
- deeperlab(ours)    | R101_v1c | *train_aug* 
+ DQN   | flappy bird | 61.2s
+ Double DQN         | flappy bird | >160s
+ Duel DQN      | flappy bird  | > 150S
+ Duel Double DQN| flappy bird | >300s
+
 
 ## Requirements
 
