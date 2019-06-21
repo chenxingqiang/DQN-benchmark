@@ -12,7 +12,7 @@ Here is my python source code for training an agent to play flappy bird. It coul
 
 With my code, you can:
 * **Train your model from scratch** by running **bash train.sh**
-* **Test your trained model** by running **bash test.py**
+* **Test your trained model** by running **bash test.sh**
 
 ## Trained models
 ### train with python
@@ -32,6 +32,13 @@ You could find duel-stream at **demo/img_net--->DuelDQN**
 
 
 ## Result
+ Methods | Game | Mean score(second)
+:--:|:--:|:--:
+ DFN(ours+Border)   | R101_v1c | *train_aug* 
+ DFN(ours)          | R101_v1c | *train_aug* 
+ DFN(ours+SBD)      | R101_v1c | *train_aug* 
+ deeperlab(ours+SBD)| R101_v1c | *train_aug* 
+ deeperlab(ours)    | R101_v1c | *train_aug* 
 
 ## Requirements
 
