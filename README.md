@@ -15,7 +15,13 @@ With my code, you can:
 * **Test your trained model** by running **bash test.py**
 
 ## Trained models
-
+### train with python
+```
+python ./tool/train.py --model DuelDQN --train_model DDQN --clip_grad True --Fire train
+#python ./tool/train.py --model DQN --train_model DDQN --clip_grad True --Fire train
+```
+--model means network structure, --train_model means using DQN train-policy or double DQN train-policy  
+### train with shell
 You could find DDQN model at **model/DDQN**  
 You could find DQN  model at **model/DQN**
 
