@@ -20,16 +20,19 @@ With my code, you can:
 python ./tool/train.py --model DuelDQN --train_model DDQN --clip_grad True --Fire train
 #python ./tool/train.py --model DQN --train_model DDQN --clip_grad True --Fire train
 ```
---model means network structure, --train_model means using DQN train-policy or double DQN train-policy  
+--model means network structure  
+--train_model means using DQN train-policy or double DQN train-policy   
 ### train with shell
 You could find DDQN model at **model/DDQN**  
 You could find DQN  model at **model/DQN**
 
-
 ## NetWork
 You could find onestream at **demo/img_net--->DQN**  
 You could find duel-stream at **demo/img_net--->DuelDQN**  
- 
+
+
+## Result
+
 ## Requirements
 
 * **python 3.6**
